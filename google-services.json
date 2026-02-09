@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547770625207",
+    "project_id": "cosybee-native",
+    "storage_bucket": "cosybee-native.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547770625207:android:8df1ecaee923f124023132",
+        "android_client_info": {
+          "package_name": "com.anonymous.cosybeenative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVdg1LXPL6KpVFBeP4TFlxXuCMP9li_Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
